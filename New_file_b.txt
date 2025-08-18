@@ -1,0 +1,6 @@
+Dios
+Dios	salud
+salud	familia
+familia	amor
+amor	abundancia
+abundancia	
